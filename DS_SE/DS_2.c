@@ -21,6 +21,9 @@ int main() {
   float gramsToPounds; // stores the vonerted Grams->Pounds;
   
   printf("Welcome to Unit Converter! \n");
+  printf("DC Project SE-2223\n");
+  printf("Members of Group - \n ");
+  printf("Phapale Hritika (22432)\n Renapurkar Rakshada (22434) \n Sawalikar Aakanksha (22437) \n");
   printf("Here is a list of conversation to choose from: \n");
   printf("Temperature(T),Currency(C),Mass(M),Current(A) \n");
   printf("Please enter the letter you want to convert.\n");
